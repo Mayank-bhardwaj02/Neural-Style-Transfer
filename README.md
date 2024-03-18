@@ -24,8 +24,7 @@ The results are visually stunning images that combine the structural essence of 
 
 For a detailed result display, custom images and their generated counterparts will be displayed here.
 
-![Generated Image](Data/Generated_images/Results.png)
 
 ![Generated Image](https://github.com/Mayank-bhardwaj02/Neural-Style-Transfer/blob/fff83a3088c160e47961e05955732196914ba018/Data/Generated%20images/Results.png)
 
-![Generated Image](https://drive.google.com/file/d/1kky16xeAu7IUDvatkIGvvpqHMgUJfYWT/view?usp=sharing)
+
