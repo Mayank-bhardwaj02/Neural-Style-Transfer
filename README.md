@@ -24,4 +24,4 @@ The results are visually stunning images that combine the structural essence of 
 
 For a detailed result display, custom images and their generated counterparts will be displayed here.
 
-![Generated Images](Data/Generated_images/Results.png)
+![Generated Images](https://drive.google.com/file/d/1kky16xeAu7IUDvatkIGvvpqHMgUJfYWT/view?usp=sharing)
