@@ -5,7 +5,7 @@ Neural Style Transfer is a fascinating application of Convolutional Neural Netwo
 
 ## Implementation Details
 - **Framework & Libraries**: This project is implemented using PyTorch. 
-- **Model Architecture**: We leverage the VGG19 model, known for its robust feature extraction capabilities.
+- **Model Architecture**: I leveraged the VGG19 model, known for its robust feature extraction capabilities.
 
 - **Hyperparameters**:
     - Image size: 512x512
@@ -17,12 +17,10 @@ Neural Style Transfer is a fascinating application of Convolutional Neural Netwo
 - **Loss Composition**: The total loss is a weighted combination of content and style loss, defined as `total_loss = alpha * content_loss + beta * style_loss`.
 
 ## How to Use
-To apply style transfer to your own images, edit the image paths in the notebook to point to your custom images. Once set, run all cells in the Jupyter notebook to perform the style transfer.
+To apply style transfer to your own images, edit the image paths in the notebook to point to your custom images. Once set, run all cells in `main.ipynb` Jupyter notebook to perform the style transfer.
 
 ## Results
 The results are visually stunning images that combine the structural essence of the content image with the textural elements of the style image. The output images will be available in the designated output directory.
-
-For a detailed result display, custom images and their generated counterparts will be displayed here.
 
 
 ![Generated Image](https://github.com/Mayank-bhardwaj02/Neural-Style-Transfer/blob/fff83a3088c160e47961e05955732196914ba018/Data/Generated%20images/Results.png)
